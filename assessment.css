@@ -1,0 +1,20 @@
+body { 
+  background: -moz-radial-gradient(#FFF, #FFC778 40%, #F13F79);
+  background: -webkit-radial-gradient(#FFF, #FFC778 40%, #F13F79);
+  background: radial-gradient(#FFF, #FFC778 40%, #F13F79);
+  color: #000000;
+  text-align: center;
+  margin-top: 400px;
+  margin-bottom: 500px;
+}
+
+button {
+  padding: 5px 20px;
+  background-color: #b92525;
+  border-style: none;
+  color: #000000;
+}
+
+input {
+  height: 20px;
+}
